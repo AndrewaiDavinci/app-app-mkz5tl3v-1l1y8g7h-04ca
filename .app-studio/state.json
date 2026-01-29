@@ -1,19 +1,13 @@
 {
   "version": 1,
-  "savedAt": "2026-01-29T07:57:04.352Z",
+  "savedAt": "2026-01-29T07:57:28.405Z",
   "appMeta": {
     "appTitle": "아트 갤러리",
     "chatPrompt": "이 이미지들을 볼수있는 갤러리 앱을 만들어",
-    "createdAt": "2026-01-29T07:57:04.352Z",
-    "lastModifiedAt": "2026-01-29T07:57:04.352Z"
+    "createdAt": "2026-01-29T07:57:28.405Z",
+    "lastModifiedAt": "2026-01-29T07:57:28.405Z"
   },
   "chatHistory": [
-    {
-      "id": "msg_1769673185669_3r0wp8u",
-      "role": "system",
-      "content": "Hello! What app would you like to create?",
-      "timestamp": "2026-01-29T07:53:05.669Z"
-    },
     {
       "id": "msg_1769673200090_s4e7465",
       "role": "user",
@@ -67,12 +61,6 @@
       "timestamp": "2026-01-29T07:55:48.701Z"
     },
     {
-      "id": "msg_1769673349416_6wt6zu3",
-      "role": "system",
-      "content": "앱이 갤러리에 저장되었습니다: \"이 이미지들을 볼수있는 갤러리 앱을 만들어\"",
-      "timestamp": "2026-01-29T07:55:49.416Z"
-    },
-    {
       "id": "msg_1769673351323_tincpg6",
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
@@ -95,18 +83,6 @@
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:56:00.310Z"
-    },
-    {
-      "id": "msg_1769673362787_2fo9wjp",
-      "role": "system",
-      "content": "GitHub에 자동 저장되었습니다: [AndrewaiDavinci/app-app-mkz5tl3v-1l1y8g7h-04ca](https://github.com/AndrewaiDavinci/app-app-mkz5tl3v-1l1y8g7h-04ca)",
-      "timestamp": "2026-01-29T07:56:02.787Z"
-    },
-    {
-      "id": "msg_1769673362868_54n3hc7",
-      "role": "system",
-      "content": "앱 썸네일을 생성하고 있습니다...",
-      "timestamp": "2026-01-29T07:56:02.868Z"
     },
     {
       "id": "msg_1769673363312_3d3ysjl",
@@ -133,22 +109,10 @@
       "timestamp": "2026-01-29T07:56:12.346Z"
     },
     {
-      "id": "msg_1769673373860_thrpsd5",
-      "role": "system",
-      "content": "앱 썸네일이 생성되었습니다.",
-      "timestamp": "2026-01-29T07:56:13.860Z"
-    },
-    {
       "id": "msg_1769673375329_ljvsa52",
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:56:15.329Z"
-    },
-    {
-      "id": "msg_1769673376340_x9sh792",
-      "role": "system",
-      "content": "앱이 업데이트되었습니다.",
-      "timestamp": "2026-01-29T07:56:16.340Z"
     },
     {
       "id": "msg_1769673378355_5dvmvu9",
@@ -167,18 +131,6 @@
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:56:24.328Z"
-    },
-    {
-      "id": "msg_1769673386938_40wl93a",
-      "role": "system",
-      "content": "GitHub 커밋 완료: 7d1365a",
-      "timestamp": "2026-01-29T07:56:26.938Z"
-    },
-    {
-      "id": "msg_1769673387098_31bxyuy",
-      "role": "system",
-      "content": "앱 썸네일을 생성하고 있습니다...",
-      "timestamp": "2026-01-29T07:56:27.098Z"
     },
     {
       "id": "msg_1769673387323_xdpqr9d",
@@ -205,22 +157,10 @@
       "timestamp": "2026-01-29T07:56:36.402Z"
     },
     {
-      "id": "msg_1769673397719_6k13xbe",
-      "role": "system",
-      "content": "앱 썸네일이 생성되었습니다.",
-      "timestamp": "2026-01-29T07:56:37.719Z"
-    },
-    {
       "id": "msg_1769673399361_qnodsm8",
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:56:39.361Z"
-    },
-    {
-      "id": "msg_1769673400412_z6cry3t",
-      "role": "system",
-      "content": "앱이 업데이트되었습니다.",
-      "timestamp": "2026-01-29T07:56:40.412Z"
     },
     {
       "id": "msg_1769673402404_3w7xxu0",
@@ -239,18 +179,6 @@
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:56:48.368Z"
-    },
-    {
-      "id": "msg_1769673409913_jhd2vzo",
-      "role": "system",
-      "content": "GitHub 커밋 완료: 0913e2f",
-      "timestamp": "2026-01-29T07:56:49.913Z"
-    },
-    {
-      "id": "msg_1769673410203_a2opxxn",
-      "role": "system",
-      "content": "앱 썸네일을 생성하고 있습니다...",
-      "timestamp": "2026-01-29T07:56:50.203Z"
     },
     {
       "id": "msg_1769673411411_lfp7rve",
@@ -277,16 +205,58 @@
       "timestamp": "2026-01-29T07:57:00.403Z"
     },
     {
-      "id": "msg_1769673421053_bea9inw",
-      "role": "system",
-      "content": "앱 썸네일이 생성되었습니다.",
-      "timestamp": "2026-01-29T07:57:01.053Z"
-    },
-    {
       "id": "msg_1769673423361_0tvod04",
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:57:03.361Z"
+    },
+    {
+      "id": "msg_1769673426361_f4so8vl",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:06.361Z"
+    },
+    {
+      "id": "msg_1769673429354_x0v5uym",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:09.354Z"
+    },
+    {
+      "id": "msg_1769673432373_bup1m6e",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:12.373Z"
+    },
+    {
+      "id": "msg_1769673435377_n544fte",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:15.377Z"
+    },
+    {
+      "id": "msg_1769673438429_odrzu9e",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:18.429Z"
+    },
+    {
+      "id": "msg_1769673441442_ayfac4k",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:21.442Z"
+    },
+    {
+      "id": "msg_1769673444403_u5svr46",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:24.403Z"
+    },
+    {
+      "id": "msg_1769673447398_lna5els",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:27.398Z"
     }
   ],
   "planning": {
@@ -506,8 +476,8 @@
     "[asset] 에셋 복원 완료",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[state] REVIEWING: 앱 실행 중",
-    "[GitHub] ✅ 커밋 완료: 0913e2f",
-    "[GitHub] 커밋 완료: 0913e2f",
+    "[GitHub] ✅ 커밋 완료: 3a9a4c0",
+    "[GitHub] 커밋 완료: 3a9a4c0",
     "[Thumbnail] 앱 썸네일 생성 중...",
     "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
     "[asset] 5개 에셋 복원 중...",
