@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "savedAt": "2026-01-29T07:56:16.339Z",
+  "savedAt": "2026-01-29T07:56:40.411Z",
   "appMeta": {
     "appTitle": "아트 갤러리",
     "chatPrompt": "이 이미지들을 볼수있는 갤러리 앱을 만들어",
-    "createdAt": "2026-01-29T07:56:16.339Z",
-    "lastModifiedAt": "2026-01-29T07:56:16.339Z"
+    "createdAt": "2026-01-29T07:56:40.411Z",
+    "lastModifiedAt": "2026-01-29T07:56:40.411Z"
   },
   "chatHistory": [
     {
@@ -143,6 +143,78 @@
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:56:15.329Z"
+    },
+    {
+      "id": "msg_1769673376340_x9sh792",
+      "role": "system",
+      "content": "앱이 업데이트되었습니다.",
+      "timestamp": "2026-01-29T07:56:16.340Z"
+    },
+    {
+      "id": "msg_1769673378355_5dvmvu9",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:18.355Z"
+    },
+    {
+      "id": "msg_1769673381339_yzxtzc0",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:21.339Z"
+    },
+    {
+      "id": "msg_1769673384328_4k5y7e3",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:24.328Z"
+    },
+    {
+      "id": "msg_1769673386938_40wl93a",
+      "role": "system",
+      "content": "GitHub 커밋 완료: 7d1365a",
+      "timestamp": "2026-01-29T07:56:26.938Z"
+    },
+    {
+      "id": "msg_1769673387098_31bxyuy",
+      "role": "system",
+      "content": "앱 썸네일을 생성하고 있습니다...",
+      "timestamp": "2026-01-29T07:56:27.098Z"
+    },
+    {
+      "id": "msg_1769673387323_xdpqr9d",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:27.323Z"
+    },
+    {
+      "id": "msg_1769673390378_mvieogn",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:30.378Z"
+    },
+    {
+      "id": "msg_1769673393369_i8tok72",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:33.369Z"
+    },
+    {
+      "id": "msg_1769673396402_sk4zuat",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:36.402Z"
+    },
+    {
+      "id": "msg_1769673397719_6k13xbe",
+      "role": "system",
+      "content": "앱 썸네일이 생성되었습니다.",
+      "timestamp": "2026-01-29T07:56:37.719Z"
+    },
+    {
+      "id": "msg_1769673399361_qnodsm8",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:56:39.361Z"
     }
   ],
   "planning": {
@@ -348,10 +420,11 @@
     ]
   },
   "terminalLogs": [
-    "[Fix] 오류 수정 시도 6/5 - 1개 오류 발견",
-    "[Fix] 최대 수정 시도 횟수 초과, 배포를 진행합니다",
+    "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
+    "[state] REVIEWING: 앱 실행 중",
+    "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
     "[asset] 5개 에셋 복원 중...",
-    "[state] DEPLOYING: 오류 수정 시도 초과, 배포 진행",
+    "[state] DEPLOYING: 배포 중...",
     "[asset] 에셋 복원 완료",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[state] REVIEWING: 앱 실행 중",
@@ -361,8 +434,8 @@
     "[asset] 에셋 복원 완료",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[state] REVIEWING: 앱 실행 중",
-    "[GitHub] ✅ 커밋 완료: 9f755c6",
-    "[GitHub] 저장 완료: https://github.com/AndrewaiDavinci/app-app-mkz5tl3v-1l1y8g7h-04ca",
+    "[GitHub] ✅ 커밋 완료: 7d1365a",
+    "[GitHub] 커밋 완료: 7d1365a",
     "[Thumbnail] 앱 썸네일 생성 중...",
     "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
     "[asset] 5개 에셋 복원 중...",
@@ -390,8 +463,7 @@
     "[state] REVIEWING: 앱 실행 중",
     "[Thumbnail] 생성 완료: https://sey6gufqt7gi4y1m.public.blob.vercel-storag...",
     "[Project] 기존 프로젝트 확인 중...",
-    "[Project] 프로젝트 생성 중...",
-    "[Project] 프로젝트 생성 완료: de65e893-70ed-4de0-af38-510bc0ce4620",
+    "[Project] 기존 프로젝트 존재 - 스킵",
     "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
     "[asset] 5개 에셋 복원 중...",
     "[state] DEPLOYING: 배포 중...",
