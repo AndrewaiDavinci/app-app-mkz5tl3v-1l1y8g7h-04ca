@@ -1,31 +1,13 @@
 {
   "version": 1,
-  "savedAt": "2026-01-29T07:57:49.428Z",
+  "savedAt": "2026-01-29T07:58:10.436Z",
   "appMeta": {
     "appTitle": "아트 갤러리",
     "chatPrompt": "이 이미지들을 볼수있는 갤러리 앱을 만들어",
-    "createdAt": "2026-01-29T07:57:49.428Z",
-    "lastModifiedAt": "2026-01-29T07:57:49.428Z"
+    "createdAt": "2026-01-29T07:58:10.436Z",
+    "lastModifiedAt": "2026-01-29T07:58:10.436Z"
   },
   "chatHistory": [
-    {
-      "id": "msg_1769673200090_s4e7465",
-      "role": "user",
-      "content": "이 이미지들을 볼수있는 갤러리 앱을 만들어",
-      "timestamp": "2026-01-29T07:53:20.090Z"
-    },
-    {
-      "id": "msg_1769673201082_b6n3oko",
-      "role": "assistant",
-      "content": "Analyzing requirements...",
-      "timestamp": "2026-01-29T07:53:21.082Z"
-    },
-    {
-      "id": "msg_1769673201970_uxt87rk",
-      "role": "assistant",
-      "content": "템플릿 선택 완료: **react-game**\n\n> Game-related keywords detected (strict match)\n\n- 프로젝트 타입: app\n- 스타일: dark\n- 복잡도: moderate",
-      "timestamp": "2026-01-29T07:53:21.970Z"
-    },
     {
       "id": "msg_1769673210155_88d6zlv",
       "role": "assistant",
@@ -299,6 +281,48 @@
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-29T07:57:48.307Z"
+    },
+    {
+      "id": "msg_1769673471391_lf4izl8",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:51.391Z"
+    },
+    {
+      "id": "msg_1769673474399_i84r75g",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:54.399Z"
+    },
+    {
+      "id": "msg_1769673477407_yepkpil",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:57:57.407Z"
+    },
+    {
+      "id": "msg_1769673480398_owdj5xs",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:58:00.398Z"
+    },
+    {
+      "id": "msg_1769673483403_y0g57fw",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:58:03.403Z"
+    },
+    {
+      "id": "msg_1769673486412_ihutz2r",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:58:06.412Z"
+    },
+    {
+      "id": "msg_1769673489288_pkqi8ia",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-01-29T07:58:09.288Z"
     }
   ],
   "planning": {
@@ -504,7 +528,7 @@
     ]
   },
   "terminalLogs": [
-    "[state] 앱 상태 직렬화 완료 (채팅: 39개, Blueprint: O, Planning: O)",
+    "[state] 앱 상태 직렬화 완료 (채팅: 46개, Blueprint: O, Planning: O)",
     "[GitHub] 기존 레포에 커밋: AndrewaiDavinci/app-app-mkz5tl3v-1l1y8g7h-04ca",
     "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
     "[asset] 5개 에셋 복원 중...",
@@ -524,8 +548,8 @@
     "[asset] 에셋 복원 완료",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[state] REVIEWING: 앱 실행 중",
-    "[GitHub] ✅ 커밋 완료: cc5b470",
-    "[GitHub] 커밋 완료: cc5b470",
+    "[GitHub] ✅ 커밋 완료: 9b66ce5",
+    "[GitHub] 커밋 완료: 9b66ce5",
     "[Thumbnail] 앱 썸네일 생성 중...",
     "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
     "[asset] 5개 에셋 복원 중...",
@@ -549,8 +573,8 @@
     "[Project] 기존 프로젝트 확인 중...",
     "[Project] 기존 프로젝트 존재 - 스킵",
     "⚠️ 런타임 에러 1개 감지됨, 수정 시도 중...",
-    "[state] DEPLOYING: 배포 중...",
     "[asset] 5개 에셋 복원 중...",
+    "[state] DEPLOYING: 배포 중...",
     "[asset] 에셋 복원 완료",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[state] REVIEWING: 앱 실행 중"
